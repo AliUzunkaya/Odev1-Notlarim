@@ -1,0 +1,7 @@
+G:\2022\17\17\bin\Debug\17.exe.config
+G:\2022\17\17\bin\Debug\17.exe
+G:\2022\17\17\bin\Debug\17.pdb
+G:\2022\17\17\obj\Debug\17.csproj.AssemblyReference.cache
+G:\2022\17\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+G:\2022\17\17\obj\Debug\17.exe
+G:\2022\17\17\obj\Debug\17.pdb
